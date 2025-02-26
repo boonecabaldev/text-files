@@ -5,11 +5,11 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 ## Outline
 
 - The closing of my claim
-- Dire need for obtaining SSI
+- My dire need for obtaining SSI
 - Description of documents included herein
 - Treatment: past, present, future
 
-## Not My Fault
+## Closed SSI Claim
 
 - Nancy: known several years, is great, but messed up claim at many points: mailing appeal form, not responding to N emails
 - this shows that I did everthing necessary to move claim forward
@@ -46,11 +46,16 @@ As you can see, Nancy said she received the fax and then over the next three mon
 
 Nancy not only failed to send the SSI paperwork in after I received the first denial letter, but she continuously ignored my requests for updates, or promised to look into it and never did. In the end, I had to call Social Security myself, and by this time it was way too late.
 
-## Dire Need of SSI
+
+## My Dire Need of SSI
 
 I'm in a critical situation:
 - was allotted 1 year for SSI claim; now that claim is basically undone, I don't know what will happen
 - I will most likely end up in the very position I sought to avoid: lost jobs, eviction, homelessness, then either go back to prison on a 3rd violation somehow-this time for a year, or worse, end up overdosing on something
+
+I am in a dire situation now that my claim has been closed.
+
+I live in a halfway house named Fortitude Treatment Center and have been allotted a year to win my SSI claim. Now that my claim is closed, I will have to try to work a job, save money, and get out of Fortitude ASAP. The problem is that if I leave Fortitude, then it is only a matter of time before I lose my job(s) and end up homeless like my last two paroles. This will drastically increase the odds of being returned to prison, this time for a year. Alternatively, I could overdose on fentanyl.
 
 ## Documents Included
 
