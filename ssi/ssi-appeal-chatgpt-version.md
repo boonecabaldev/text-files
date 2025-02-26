@@ -14,6 +14,38 @@ I am writing to formally request the reopening of my SSI claim, as it was closed
 - I fulfilled all necessary steps to move my claim forward, but due to these errors, my claim was improperly closed.
 - Ultimately, I had to contact Social Security myself to determine why I had not received any updates.
 
+The following table chronicles the correspondences between Boone Cabal and Nancy Griggs.
+
+| Date | Event |
+|---|---|
+| 09-04-24 | Boone receives denial letter. Emails Nancy. |
+| 09-10-24 | Nancy and Boone agree to meet on 09-13-24. |
+| 09-25-24 | Boone asks Nancy if she received fax with denial letter. |
+| 09-30-24 | Nancy asks Boone to re-fax it. |
+| 10-01-24 | Boone's case manager faxes denial letter to Nancy. |
+| 10-06-24 | Boone asks Nancy if she received fax. |
+| 10-07-24 | Nancy says she received fax and will send it today. |
+| 11-27-24 | Boone tells Nancy he hasn't heard from SSI and is worried. |
+| 12-02-24 | Nancy claims she will follow up that day. |
+| 12-05-24 | Boone asks Nancy, "Anything yet?" |
+| 12-09-24 | Boone asks Nancy, "Did you find anything out?" |
+| 12-09-24 | Nancy says she has no news yet. |
+| 12-26-24 | Boone asks for update (no reply). |
+| 12-26-24 | Boone says, "Something is wrong here." |
+| 12-30-24 | Nancy says she will get update. |
+| 01-07-25 | Boone asks, "What's happening with my claim?" |
+| 01-07-25 | Nancy says, "Let me look into this." |
+| 01-07-25 | "..going on a year and I still haven't heard back." |
+| 01-10-25 | Boone says, "Have you heard anything yet?" |
+| 01-21-25 | Boone asks for update. |
+| 01-21-25 | Nancy says, "...have not heard anything yet." |
+| 01-21-25 | Boone calls Social Security and discovers SSI claim was closed in August because Nancy didn't mail paperwork in. |
+
+As you can see, Nancy said she received the fax and then over the next three months failed to provide updates about SSI claim. Therefore, I did everything on my end to ensure the claim moved forward.
+
+Nancy not only failed to send the SSI paperwork in after I received the first denial letter, but she continuously ignored my requests for updates, or promised to look into it and never did. In the end, I had to call Social Security myself, and by this time it was way too late.
+
+
 ## Dire Need for SSI Benefits
 
 I am in an extremely precarious situation:
