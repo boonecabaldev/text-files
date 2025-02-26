@@ -36,4 +36,6 @@ I have included in this mail many documents, including:
 
 ## Other
 
- 
+- worked with treatment team for past year to more precisely diagnose DD. currently, we are calling it DMA, a derivative of DA. currently, we have not discovered a treatment.
+- hopefully, the fMRI will tell us more. ECS and ketamine are exciting prospective treatments.
+- two failed claims, suicide attempt, third claim closed from prison; this could be the fourth closed claim; this concerns me because I fear  it looks bad and reduces my odds of winning
