@@ -24,7 +24,7 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 | 10-01-24 | Boone's case manager faxes denial letter to Nancy. |
 | 10-06-24 | Boone asks Nancy if she received fax. |
 | 10-07-24 | Nancy says she received fax and will send it today. |
-| 10-27-24 | Boone tells Nancy he hasn't heard from SSI and is worried. |
+| 11-27-24 | Boone tells Nancy he hasn't heard from SSI and is worried. |
 | 12-02-24 | Nancy claims she will follow up that day. |
 | 12-05-24 | Boone asks Nancy, "Anything yet?" |
 | 12-09-24 | Boone asks Nancy, "Did you find anything out?" |
