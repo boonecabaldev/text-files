@@ -25,6 +25,17 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 | 10-06-24 | Boone asks Nancy if she received fax. |
 | 10-07-24 | Nancy says she received fax and will send it today. |
 | 10-27-24 | Boone tells Nancy he hasn't heard from SSI and is worried. |
+| 12-02-24 | Nancy claims she will follow up that day. |
+| 12-05-24 | Boone asks Nancy, "Anything yet?" |
+| 12-09-24 | Boone asks Nancy, "Did you find anything out?" |
+| 12-09-24 | Nancy says she has no news yet. |
+| 12-26-24 | Boone asks for update (no reply). |
+| 12-26-24 | Boone says, "Something is wrong here." |
+| 12-30-24 | Nancy says she will get update. |
+| 01-07-25 | Boone asks, "What's happening with my claim?" |
+| 01-07-25 | Nancy says, "Let me look into this." |
+| 01-07-25 | "..going on a year and I still haven't heard back." |
+
 
 
 | Syntax      | Description |
