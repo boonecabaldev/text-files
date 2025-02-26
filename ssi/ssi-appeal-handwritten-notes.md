@@ -85,13 +85,10 @@ I have included in this mail many documents, including:
   - Stephany Larson
   - Heidi
 
-These documents demonstrate my efforts to prove that my mental health condition(s) meet the requirements for a disabling condition. Additionally, I am currently in the process of obtaining a clearer picture of my DD via fMRI, as well as electro-convulsive shock (ECS) and ketamine therapy, and second neuropsychological examination. Finally, I recently met with a specialist from Medicaid Disability; you have access to the result. 
+These documents demonstrate my efforts to prove that my mental health condition(s) meet the requirements for a disabling condition. 
 
-I have worked in tandem with my treatment team of Stephanie Larson and Kylie at Valley Behavioral Health, as well as Heidi at Fortitude to narrow the diagnosis of my Dissociative Disorder. As of this writing we believe it is a derivative of Dissociative Amnesia--we have been calling it Dissociative Micro-Amnesia.
+I have worked in tandem with my treatment team of Stephanie Larson and Kylie at Valley Behavioral Health, as well as Heidi at Fortitude to narrow the diagnosis of my Dissociative Disorder. As of this writing we believe it is a derivative of Dissociative Amnesia--we have been calling it Dissociative Micro-Amnesia. My future treatment plans include doing an fMRI, electro-convulsive shock (ECS),  ketamine therapy, and second neuropsychological examination. 
 
-In conclusion, these documents demonstrate my efforts to prove that my mental health condition(s) meet the requirements for a disabling condition. 
+Additionally, I recently completed a mental health evaluation with a representative of Medicaid Disability; you have access to the result. 
 
-## Other
-
-- worked with treatment team for past year to more precisely diagnose DD. currently, we are calling it DMA, a derivative of DA. currently, we have not discovered a treatment.
-- hopefully, the fMRI will tell us more. ECS and ketamine are exciting prospective treatments.
+In conclusion I believe that my overall case demonstrates that my mental health condition(s) meet the requirements for a disabling condition. 
