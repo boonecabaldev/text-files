@@ -15,6 +15,8 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 - this shows that I did everthing necessary to move claim forward
 - In the end, I had to call SS to figure out why I hadn't received word
 
+The following table chronicles the correspondences between Boone Cabal and Nancy Griggs.
+
 | Date | Event |
 |---|---|
 | 09-04-24 | Boone receives denial letter. Emails Nancy. |
@@ -39,6 +41,10 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 | 01-21-25 | Boone asks for update. |
 | 01-21-25 | Nancy says, "...have not heard anything yet." |
 | 01-21-25 | Boone calls Social Security and discovers SSI claim was closed in August because Nancy didn't mail paperwork in. |
+
+As you can see, Nancy said she received the fax and then over the next three months failed to provide updates about SSI claim. Therefore, I did everything on my end to ensure the claim moved forward.
+
+Nancy not only failed to send the SSI paperwork in after I received the first denial letter, but she continuously ignored my requests for updates, or promised to look into it and never did. In the end, I had to call Social Security myself, and by this time it was way too late.
 
 ## Dire Need of SSI
 
