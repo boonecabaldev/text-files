@@ -35,13 +35,10 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 | 01-07-25 | Boone asks, "What's happening with my claim?" |
 | 01-07-25 | Nancy says, "Let me look into this." |
 | 01-07-25 | "..going on a year and I still haven't heard back." |
-
-
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| 01-10-25 | Boone says, "Have you heard anything yet?" |
+| 01-21-25 | Boone asks for update. |
+| 01-21-25 | Nancy says, "...have not heard anything yet." |
+| 01-21-25 | Boone calls Social Security and discovers SSI claim was closed in August because Nancy didn't mail paperwork in. |
 
 ## Dire Need of SSI
 
