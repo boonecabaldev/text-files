@@ -17,8 +17,15 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 
 | Date | Event |
 |---|---|
-| 09-4-24 | Boone receives denial letter. Emails Nancy. |
+| 09-04-24 | Boone receives denial letter. Emails Nancy. |
 | 09-10-24 | Nancy and Boone agree to meet on 09-13-24. |
+| 09-25-24 | Boone asks Nancy if she received fax with denial letter. |
+| 09-30-24 | Nancy asks Boone to re-fax it. |
+| 10-01-24 | Boone's case manager faxes denial letter to Nancy. |
+| 10-06-24 | Boone asks Nancy if she received fax. |
+| 10-07-24 | Nancy says she received fax and will send it today. |
+| 10-27-24 | Boone tells Nancy he hasn't heard from SSI and is worried. |
+
 
 | Syntax      | Description |
 | ----------- | ----------- |
