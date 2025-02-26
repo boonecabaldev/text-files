@@ -6,7 +6,8 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 
 - The closing of my claim
 - My dire need for obtaining SSI
-- Description of documents included herein
+- My objective in contacting you
+  - Documents included
 - Treatment: past, present, future
 
 ## Closed SSI Claim
@@ -57,12 +58,22 @@ I am in a dire situation now that my claim has been closed.
 
 I live in a halfway house named Fortitude Treatment Center and have been allotted a year to win my SSI claim. Now that my claim is closed, I will have to try to work a job, save money, and get out of Fortitude ASAP. The problem is that if I leave Fortitude, then it is only a matter of time before I lose my job(s) and end up homeless like my last two paroles. This will drastically increase the odds of being returned to prison, this time for a year. Alternatively, I could overdose on fentanyl.
 
-## Documents Included
+## Objective In Contacting You
+
+My goal is to present you with a considerable amount of documentation that bolsters my case with the hope that upon viewing it, you will consider reopening my SSI claim.
+
+### Documents Included
 
 I have included in this mail many documents, including:
 - Appeal papers
 - Request for Dire Need
-- Medical records showing current medical treatment history--especially hospitalizations
+- Medical records:
+  - Hospitalizations at:
+    - McKay-Dee Hospital
+    - University of Utah
+    - St. Mark's Hospital
+  - Treatment at Valley Behavioral Health
+
 - Letters from treatment team
 - Document giving answers for questions a specialist might ask
 - These documents demonstrate my efforts to prove that my mental health condition(s) meet the requirements for a disabling condition
