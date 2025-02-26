@@ -21,3 +21,19 @@ I'm in a critical situation:
 - was allotted 1 year for SSI claim; now that claim is basically undone, I don't know what will happen
 - I will most likely end up in the very position I sought to avoid: lost jobs, eviction, homelessness, then either go back to prison on a 3rd violation somehow-this time for a year, or worse, end up overdosing on something
 
+## Documents Included
+
+I have included in this mail many documents, including:
+- Appeal papers
+- Request for Dire Need
+- Medical records showing current medical treatment history--especially hospitalizations
+- Letters from treatment team
+- Document giving answers for questions a specialist might ask
+- These documents demonstrate my efforts to prove that my mental health condition(s) meet the requirements for a disabling condition
+- Additionally, I am currently in the process of obtaining a clearer picture of my DD via fMRI, as well as electro-convulsive shock (ECS) and ketamine therapy, and second neuropsychological examination.
+- Finally, I recently met with a specialist from Medicaid Disability and am awaiting  the result.
+- Conclusion, I believe I have shown a considerable effort at every point in this process to argue my case.
+
+## Other
+
+ 
