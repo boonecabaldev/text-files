@@ -2,6 +2,7 @@
 
 I am writing you to present my considerable case for reopening my SSI claim including the following:
 
+
 ## Outline
 
 - The closing of my claim
@@ -9,6 +10,7 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 - My objective in contacting you
   - Documents included
 - Treatment: past, present, future
+
 
 ## Closed SSI Claim
 
@@ -58,6 +60,12 @@ I am in a dire situation now that my claim has been closed.
 
 I live in a halfway house named Fortitude Treatment Center and have been allotted a year to win my SSI claim. Now that my claim is closed, I will have to try to work a job, save money, and get out of Fortitude ASAP. The problem is that if I leave Fortitude, then it is only a matter of time before I lose my job(s) and end up homeless like my last two paroles. This will drastically increase the odds of being returned to prison, this time for a year. Alternatively, I could overdose on fentanyl.
 
+
+## Other Concerns
+
+- two failed claims, suicide attempt, third claim closed from prison; this could be the fourth closed claim; this concerns me because I fear  it looks bad and reduces my odds of winning
+I have tried repeatedly for years to win an SSI claim. I lost my first two claims--each taking two years and ending with ALJ. My third claim was closed because I was in prison, and this current (closed) claim is my fourth. I fear this looks bad and reduces my odds of winning.
+
 ## Objective In Contacting You
 
 My goal is to present you with a considerable amount of documentation that bolsters my case with the hope that upon viewing it, you will consider reopening my SSI claim.
@@ -65,24 +73,25 @@ My goal is to present you with a considerable amount of documentation that bolst
 ### Documents Included
 
 I have included in this mail many documents, including:
-- Appeal papers
-- Request for Dire Need
+- Appeal form(s)
+- Request for Dire Need form(s)
 - Medical records:
   - Hospitalizations at:
     - McKay-Dee Hospital
     - University of Utah
     - St. Mark's Hospital
   - Treatment at Valley Behavioral Health
-
 - Letters from treatment team
-- Document giving answers for questions a specialist might ask
-- These documents demonstrate my efforts to prove that my mental health condition(s) meet the requirements for a disabling condition
-- Additionally, I am currently in the process of obtaining a clearer picture of my DD via fMRI, as well as electro-convulsive shock (ECS) and ketamine therapy, and second neuropsychological examination.
-- Finally, I recently met with a specialist from Medicaid Disability and am awaiting  the result.
-- Conclusion, I believe I have shown a considerable effort at every point in this process to argue my case.
+  - Stephany Larson
+  - Heidi
+
+These documents demonstrate my efforts to prove that my mental health condition(s) meet the requirements for a disabling condition. Additionally, I am currently in the process of obtaining a clearer picture of my DD via fMRI, as well as electro-convulsive shock (ECS) and ketamine therapy, and second neuropsychological examination. Finally, I recently met with a specialist from Medicaid Disability; you have access to the result. 
+
+I have worked in tandem with my treatment team of Stephanie Larson and Kylie at Valley Behavioral Health, as well as Heidi at Fortitude to narrow the diagnosis of my Dissociative Disorder. As of this writing we believe it is a derivative of Dissociative Amnesia--we have been calling it Dissociative Micro-Amnesia.
+
+In conclusion, these documents demonstrate my efforts to prove that my mental health condition(s) meet the requirements for a disabling condition. 
 
 ## Other
 
 - worked with treatment team for past year to more precisely diagnose DD. currently, we are calling it DMA, a derivative of DA. currently, we have not discovered a treatment.
 - hopefully, the fMRI will tell us more. ECS and ketamine are exciting prospective treatments.
-- two failed claims, suicide attempt, third claim closed from prison; this could be the fourth closed claim; this concerns me because I fear  it looks bad and reduces my odds of winning
