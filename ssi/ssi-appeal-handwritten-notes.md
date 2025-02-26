@@ -16,13 +16,14 @@ I am writing you to present my considerable case for reopening my SSI claim incl
 - In the end, I had to call SS to figure out why I hadn't received word
 
 | Date | Event |
-
 |---|---|
-
 | 09-4-24 | Boone receives denial letter. Emails Nancy. |
-
 | 09-10-24 | Nancy and Boone agree to meet on 09-13-24. |
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ## Dire Need of SSI
 
