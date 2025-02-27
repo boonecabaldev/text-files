@@ -5,8 +5,6 @@
 
 ### Records
 
-- [ ] Get McKay Dee records
-- [ ] Get VBH records
 - [ ] Get St. Mark's 
 - [ ] Get U of U
 
@@ -21,5 +19,7 @@
 
 ## Completed
 
+- [X] Get McKay Dee records
+- [X] Get VBH records
 - [X] Email Nancy
 - [X] Email Stephanie about getting letters for appeal
