@@ -6,7 +6,9 @@
 ### Records
 
 - [ ] Get St. Mark's 
+
 - [ ] Get U of U
+- [X] request records at https://mychart.med.utah.edu/mychart/Home
 
 ### Other
 
