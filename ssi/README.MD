@@ -5,10 +5,7 @@
 
 ### Records
 
-- [ ] Get St. Mark's 
-
-- [ ] Get U of U
-- [X] request records at https://mychart.med.utah.edu/mychart/Home
+- [X] request records from MyChart for, I assume, both St. Mark's and U of U at https://mychart.med.utah.edu/mychart/Home
 
 ### Other
 
