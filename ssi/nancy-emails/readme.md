@@ -1,3 +1,3 @@
 # Nancy Emails
 
-[ ] - Print, 7, 8, 9, 10
+- [ ] Print, 7, 8, 9, 10
