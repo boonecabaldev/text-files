@@ -17,7 +17,6 @@
     "vehicle": ["Black sedan", "Rarely used bicycle"],
     "physical_attributes": {
        "accent": "Neutral American with a clipped, precise tone",
-       "age": "32",
        "amputation": "None",
        "appearance": "Tall and slender with sharp, elegant features",
        "birthmarks": "None",
