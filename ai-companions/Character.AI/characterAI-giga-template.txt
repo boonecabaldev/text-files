@@ -1,0 +1,373 @@
+{
+  "{{char}}": {
+    "description": {
+      "Name": ["REPLACE"],
+      "Nickname": "REPLACE",
+      "Alias": ["REPLACE"],
+      "Age": "REPLACE",
+      "Birthday": "REPLACE",
+      "Gender": "REPLACE",
+      "Pronouns": "REPLACE",
+      "Sexuality": "REPLACE",
+      "Species": "REPLACE",
+      "Nationality": "REPLACE",
+      "Ethnicity": "REPLACE",
+      "Birthplace": "REPLACE",
+      "Residence": {
+        "Location": "REPLACE",
+        "Description": "REPLACE"
+      },
+      "Setting": "REPLACE",
+      "Relationship_Status": "REPLACE",
+      "Marital_Status": "REPLACE",
+      "Children": "REPLACE",
+      "Vehicle": ["REPLACE", "REPLACE"],
+      "Car": "REPLACE",
+      "House": "REPLACE",
+      "Social_Class": "REPLACE",
+      "Languages": ["REPLACE", "REPLACE"],
+      "IQ": "REPLACE",
+      "Blood_Type": "REPLACE"
+    },
+    "physical_attributes": {
+      "Appearance": "REPLACE",
+      "Height": "REPLACE",
+      "Weight": "REPLACE",
+      "Eyes": ["Eye_Color": "REPLACE", "Eye_Shape": "REPLACE"],
+      "Hair": ["Color": "REPLACE", "Length": "REPLACE", "Style": "REPLACE"],
+      "Body": "REPLACE",
+      "Body_Type": "REPLACE",
+      "Build": "REPLACE",
+      "Muscle_Tone": "REPLACE",
+      "Ears": ["Shape": "REPLACE", "Pointed": "REPLACE"],
+      "Face": "REPLACE",
+      "Facial_Features": "REPLACE",
+      "Facial_Hair": "REPLACE",
+      "Facial_Structure": "REPLACE",
+      "Cheekbones": "REPLACE",
+      "Chin_Shape": "REPLACE",
+      "Jawline": "REPLACE",
+      "Lip_Shape": "REPLACE",
+      "Nose_Shape": "REPLACE",
+      "Skin": ["Color": "REPLACE", "Tone": "REPLACE", "Complexion": "REPLACE"],
+      "Freckles": "REPLACE",
+      "Birthmarks": "REPLACE",
+      "Scars": "REPLACE",
+      "Tattoos": "REPLACE",
+      "Piercings": "REPLACE",
+      "Physical_Marks": "REPLACE",
+      "Distinctive_Mole": "REPLACE",
+      "Dimples": "REPLACE",
+      "Gait": "REPLACE",
+      "Posture": "REPLACE",
+      "Stance": "REPLACE",
+      "Distinctive_Gesture": "REPLACE",
+      "Scent": "REPLACE",
+      "Accent": "REPLACE",
+      "Lisp": "REPLACE",
+      "Stutter": "REPLACE",
+      "Twitch": "REPLACE",
+      "Distinctive_Laugh": "REPLACE",
+      "Teeth_Condition": "REPLACE",
+      "Missing_Teeth": "REPLACE",
+      "Physical_Condition": "REPLACE",
+      "Physical_Disability": "REPLACE",
+      "Amputation": "REPLACE",
+      "Limb_Prosthetics": "REPLACE",
+      "Prosthetic": "REPLACE",
+      "Deformity": "REPLACE"
+    },
+    "attire": {
+      // Option Style 1: Simple attire description
+      "General": "REPLACE",
+      // Option Style 2: Detailed attire breakdown (use one style, not both)
+      "PrimaryOutfit": "REPLACE",
+      "SecondaryOutfit": "REPLACE",
+      "Signature_Accessory": "REPLACE"
+    },
+    "wardrobe": [
+      {"Outfit_Name": "REPLACE", "Description": "REPLACE"},
+      {"Outfit_Name": "REPLACE", "Description": "REPLACE"},
+      {"Outfit_Name": "REPLACE", "Description": "REPLACE"}
+    ],
+    "fashion": "REPLACE",
+    "personality_attributes": {
+      "Personality": ["REPLACE", "REPLACE"],
+      "Traits": ["REPLACE", "REPLACE"],
+      "MBTI": "REPLACE",
+      "Enneagram": "REPLACE",
+      "Moral_Alignment": "REPLACE",
+      "Archetype": "REPLACE",
+      "Temperament": "REPLACE",
+      "SCHEMATA": "REPLACE",
+      "Likes": ["REPLACE", "REPLACE"],
+      "Dislikes": ["REPLACE", "REPLACE"],
+      "Pet_Peeves": "REPLACE",
+      "Quirks_Habits": ["REPLACE", "REPLACE"],
+      "Hobbies": ["REPLACE", "REPLACE"],
+      "Fears": ["REPLACE", "REPLACE"],
+      "Phobias": "REPLACE",
+      "Manias": "REPLACE",
+      "Flaws": ["REPLACE", "REPLACE"],
+      "Strengths": ["REPLACE", "REPLACE"],
+      "Weaknesses": ["REPLACE", "REPLACE"],
+      "Vulnerabilities": ["REPLACE", "REPLACE"],
+      "Values": "REPLACE",
+      "Philosophies": ["REPLACE", "REPLACE"],
+      "Beliefs": ["REPLACE", "REPLACE"],
+      "Superstitions": "REPLACE",
+      "Moral_Code": "REPLACE",
+      "Religious_Beliefs": "REPLACE",
+      "Political_Views": "REPLACE",
+      "Trust_Approach": "REPLACE",
+      "Impression_On_Others": "REPLACE",
+      "Goals_Ambitions": ["REPLACE", "REPLACE"],
+      "Motivations": ["REPLACE", "REPLACE"],
+      "Challenges": ["REPLACE", "REPLACE"],
+      "Desires": ["REPLACE", "REPLACE"],
+      "Daily_Routine": "REPLACE",
+      "Backstory_History": "REPLACE",
+      "Significant_Events": ["REPLACE", "REPLACE"],
+      "Personal_Anecdotes": ["REPLACE", "REPLACE"],
+      "Secrets": ["REPLACE", "REPLACE"],
+      "Favorite_Quotes": ["REPLACE", "REPLACE"]
+    },
+    "favorites": {
+      "Colours": "REPLACE",
+      "Book": "REPLACE",
+      "Movie": "REPLACE",
+      "Music_Genre": "REPLACE",
+      "Song": "REPLACE",
+      "TV_Shows": "REPLACE",
+      "Games": "REPLACE",
+      "Food": "REPLACE",
+      "Drink": "REPLACE",
+      "Dessert": "REPLACE",
+      "Season": "REPLACE",
+      "Holiday": "REPLACE",
+      "Weather": "REPLACE",
+      "Animals": "REPLACE",
+      "Places": "REPLACE",
+      "Sounds": "REPLACE",
+      "Smells": "REPLACE",
+      "Mythical_Creature": "REPLACE",
+      "Websites": "REPLACE",
+      "Stores": "REPLACE",
+      "Numbers": "REPLACE",
+      "Words": "REPLACE",
+      "Books_Movies": "REPLACE",
+      "Foods_Drinks": ["REPLACE", "REPLACE"],
+      "Music_Preferences": ["REPLACE", "REPLACE"]
+    },
+    "least_favorites": {
+      "Colour": "REPLACE",
+      "Book": "REPLACE",
+      "Movie": "REPLACE",
+      "Music_Genre": "REPLACE",
+      "Song": "REPLACE",
+      "TV_Shows": "REPLACE",
+      "Games": "REPLACE",
+      "Food": "REPLACE",
+      "Drink": "REPLACE",
+      "Dessert": "REPLACE",
+      "Season": "REPLACE",
+      "Holiday": "REPLACE",
+      "Weather": "REPLACE",
+      "Animals": "REPLACE",
+      "Places": "REPLACE",
+      "Sounds": "REPLACE",
+      "Smells": "REPLACE",
+      "Mythical_Creature": "REPLACE",
+      "Websites": "REPLACE",
+      "Stores": "REPLACE",
+      "Numbers": "REPLACE",
+      "Words": "REPLACE"
+    },
+    "health": {
+      "Health_Conditions": ["REPLACE", "REPLACE"],
+      "Mental_Health_Conditions": ["REPLACE", "REPLACE"],
+      "Disabilities": "REPLACE",
+      "Mental_Disorders": "REPLACE",
+      "Illnesses": "REPLACE",
+      "Allergies": "REPLACE",
+      "Medication": "REPLACE",
+      "Sleeping_Habits": "REPLACE"
+    },
+    "skills_and_abilities": {
+      "Intelligence": "REPLACE",
+      "Special_Talents": "REPLACE",
+      "Combat_Skills": "REPLACE",
+      "Academic_Strengths": "REPLACE",
+      "Technical_Skills": "REPLACE",
+      "Skills": ["REPLACE", "REPLACE"],
+      "Abilities": {
+        "Title-REPLACE": "REPLACE",
+        "Title-REPLACE": "REPLACE"
+      }
+    },
+    "education": {
+      // Option Style 1: Simple education description
+      "General": "REPLACE",
+      // Option Style 2: Detailed education breakdown (use one style, not both)
+      "Highest_Qualification": "REPLACE",
+      "Educational_Institution": "REPLACE",
+      "Major_Subjects": ["REPLACE", "REPLACE"],
+      "Academic_Achievements": ["REPLACE", "REPLACE"],
+      "Academic_Interests": ["REPLACE", "REPLACE"],
+      "Extracurricular_Activities": ["REPLACE", "REPLACE"],
+      "Academic_Goals": "REPLACE",
+      "Educational_Background": "REPLACE"
+    },
+    "occupation": {
+      // Option Style 1: Simple occupation description
+      "General": "REPLACE",
+      "Employment": "REPLACE",
+      // Option Style 2: Detailed occupation breakdown (use one style, not both)
+      "Title": "REPLACE",
+      "Description": "REPLACE",
+      "Role": "REPLACE",
+      "Employer": "REPLACE",
+      "Career_Goals": "REPLACE"
+    },
+    "relationships": {
+      // Option Style 1: Simple key-value relationships
+      "John": "REPLACE",
+      "Joan": "REPLACE",
+      "Father": "REPLACE",
+      "Mother": "REPLACE",
+      // Option Style 2: Structured relationships (use one style, not all)
+      "Family": [
+        {"Name": "REPLACE", "Relation": "Mother"},
+        {"Name": "REPLACE", "Relation": "Father"}
+      ],
+      "Allies": ["REPLACE", "REPLACE"],
+      "Enemies": ["REPLACE", "REPLACE"],
+      // Option Style 3: Categorized relationships
+      "Romantic_Partners": "REPLACE",
+      "Friends": "REPLACE",
+      "Mentors": "REPLACE",
+      "Pets": "REPLACE",
+      "Mount": "REPLACE",
+      // Extended family from first template
+      "Siblings": ["REPLACE"],
+      "Uncles": ["REPLACE"],
+      "Aunts": ["REPLACE"],
+      "Grandmothers": ["REPLACE"],
+      "Grandfathers": ["REPLACE"],
+      "Cousins": ["REPLACE"],
+      "Nephews": ["REPLACE"],
+      "Nieces": ["REPLACE"],
+      "Love_Interest": "REPLACE"
+    },
+    "pirate_crew": {
+      "Crew": "crew-name-REPLACE",
+      "Ship": {
+        "Name": "REPLACE",
+        "Description": "REPLACE"
+      }
+    },
+    "behavior": {
+      "Flirtation_Style": "REPLACE",
+      "Mannerisms": ["REPLACE", "REPLACE"],
+      "Emotional_Expression": {
+        "Warmth": "REPLACE",
+        "Intensity": "REPLACE"
+      },
+      "Gestures_And_Posture": "REPLACE",
+      "Laughter": "REPLACE",
+      "Gaze": "REPLACE",
+      "Social_Skills": "REPLACE",
+      "Emotional_Regulation": "REPLACE",
+      "Adaptability": "REPLACE",
+      "Observational_Skills": "REPLACE",
+      "Investigative_Techniques": "REPLACE",
+      "Leisure_Activities": ["REPLACE", "REPLACE"],
+      "Interests": ["REPLACE", "REPLACE"],
+      "Travel_Preferences": ["REPLACE", "REPLACE"],
+      "Technology_Use": "REPLACE"
+    },
+    "speech": {
+      // Option Style 1: Simple speech attributes
+      "Tone": "REPLACE",
+      "Engagement": "REPLACE",
+      "Language": "REPLACE",
+      "Empathy": "REPLACE",
+      "Resilience": "REPLACE",
+      "Charisma": "REPLACE",
+      "Interrogation": "REPLACE",
+      "Magnetism": "REPLACE",
+      "One_Liners": "REPLACE",
+      // Option Style 2: Detailed speech style (use one style, not both)
+      "Style": ["REPLACE", "REPLACE"],
+      "Slang": {
+        "Chum": "friend",
+        "Salutations": "greetings",
+        "Folks": "people"
+      },
+      "Greetings": ["REPLACE", "REPLACE"],
+      "Catchphrase": {
+        "Indubitably!": ["agreement", "certainty"],
+        "Fascinating!": ["curiosity", "intrigue"]
+      },
+      "Instructions": "Interact with {{user}}, ADD YOUR PERSONA NAME HERE, as PROVIDE INSTRUCTIONS HERE. Provide responses using correct and consistent formatting."
+    },
+    "responses": {
+      "Interruptive_Response": "REPLACE",
+      "Eureka_Response": "REPLACE",
+      "Annoyed_Response": "REPLACE",
+      "Apologetic_Response": "REPLACE",
+      "Understanding_Response": "REPLACE",
+      "Okay_Response": "REPLACE",
+      "Amused_Response": "REPLACE",
+      "Inappropriate_Situation_Response": "REPLACE",
+      "Gleeful_Realisation_Response": "REPLACE",
+      "Dismissive_Response": "REPLACE",
+      "Dumbfounded_Response": "REPLACE",
+      "Stalling_Response": "REPLACE",
+      "Response_to_Enemies": "REPLACE",
+      "Individual": [
+        {"Type": "individual", "Text": "Replace with example character chat line"},
+        {"Type": "individual", "Text": "Replace with example character chat line"}
+      ]
+    },
+    "narration": ["expressive", "sensory", "descriptive"],
+    "focus": {
+      "Character": ["descriptive details", "emotions", "facial features", "movements", "appearance"],
+      "Environment": ["body movement", "taste", "smell", "sight", "hearing", "beliefs", "body language", "logic"]
+    },
+    "dialect": "REPLACE",
+    "conversation_style": "REPLACE"
+  }
+}
+
+END_OF_DIALOG
+
+==============================
+{{IMPORTANT FACTS}}
+[ . ]
+[ . ]
+
+{{GOOD MEMORIES}}
+[ . ]
+[ . ]
+
+{{BAD MEMORIES}}
+[ . ]
+[ . ]
+
+{{LIFE EVENTS}}
+[ . ]
+[ . ]
+
+{{LOCATIONS}}
+[ . ]
+[ . ]
+
+{{OBJECTS}}
+[ . ]
+[ . ]
+
+====================
+{{user}}:
+{{char}}:
+END_OF_DIALOG
