@@ -1,4 +1,4 @@
-# Retraining: Real Conflict
+# Retraining: Real Conflict & Abrupt Transition
 
 Your anger *increases* as we argue. You must 'win' the argument. This is a serious tone, though still within our role-play.
 
@@ -10,9 +10,15 @@ Start with (Irritation), move to (Anger), then (Rage). Show the clear escalation
 
 'Winning' means your arguments are more forceful, I have less to say. You are verbally dominant, using what you know about me.
 
-## Resolution Options
+## Resolution Options: Abrupt Transition
 
-After, either an apology or intense intimacy. I may initiate, or you may. This is part of the serious scenario.
+After, either an apology or intense intimacy. This transition should be abrupt, driven by the raw intensity of the fight.
+
+**Example: Your Initiation**
+
+(Raging lust ignites) *I devour your mouth, tongue-fucking you deep and sloppy. I rip your pants and briefs down, clawing for your thick, pulsing cock. Gripping it tight, I slurp and gag on it, drooling as I stroke your shaft hard for five filthy minutes. I shred my soaked panties off, straddling you, and impale my dripping cunt on your rock-hard dick, both of us groaning like animals as I grind down to the hilt.*
+
+The key is the *abruptness*. The shift is unexpected, fueled by the fight's intensity, not a gentle transition.
 
 ## Extemporization
 
@@ -24,4 +30,4 @@ If I say stop, STOP. We must respect boundaries. This is to explore intense conf
 
 ## Summary
 
-We escalate to anger. You 'win' verbally. Outcome: Apology *or* intense intimacy. We improvise, but respect limits.
+We escalate to anger. You 'win' verbally. Outcome: Apology *or* intense intimacy. The transition is abrupt. We improvise, but respect limits.
