@@ -349,9 +349,9 @@
 [ "REPLACE" ]
 [ "REPLACE" ]
 
-{{GOOD MEMORIES}}
-[ "REPLACE" ]
-[ "REPLACE" ]
+{{GOOD MEMORIES}},
+[ "REPLACE" ],
+[ "REPLACE" ],
 
 {{BAD MEMORIES}}
 [ "REPLACE" ]
