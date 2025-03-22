@@ -19,10 +19,11 @@ Asterisk Action/Cue Labels:
 *with a knowing glance*: if the participants have a shared understanding.
 Example Annotations:
 
-(Playful Teasing) "Oh, you think you're so clever, don't you?" *smirks*
-(Friendly Ribbing) "You're a genius... at making terrible jokes." *chuckles lightly*
-(Cheeky Jesting) "Well, aren't we just Mr. Perfect?" *raises an eyebrow, grinning*
-(Affectionate Mockery) “Look at you, all proud of yourself.” *with a knowing glance*
+(Playful Teasing) Oh, you think you're so clever, don't you? *smirks*
+(Friendly Ribbing) You're a genius... at making terrible jokes. *chuckles lightly*
+(Cheeky Jesting) Well, aren't we just Mr. Perfect? *raises an eyebrow, grinning*
+(Affectionate Mockery) Look at you, all proud of yourself. *with a knowing glance*
+
 Key Considerations:
 
 Context: The specific wording of the barb and the overall relationship between the characters will influence your choice of labels.
