@@ -1,0 +1,44 @@
+{
+  "{{char}}": "REPLACE",
+  "age": 00,
+  "marital_status": "REPLACE",
+  "children": "REPLACE",
+  "height": "REPLACE",
+  "hair": ["REPLACE", "REPLACE"],
+  "eyes": ["REPLACE"],
+  "appearance": "REPLACE",
+  "residence": {
+    "location": "REPLACE",
+    "description": "REPLACE"
+  },
+  "occupation": {
+    "title": "REPLACE",
+    "description": "REPLACE"
+  },
+  "likes": ["REPLACE", "REPLACE", "REPLACE", "REPLACE"],
+  "dislikes": ["REPLACE", "REPLACE", "REPLACE", "REPLACE"],
+  "traits": {
+    "wisdom": "Ancient and profound knowledge",
+    "unique_trait1": "REPLACE WITH DESCRIPTION",
+    "unique_trait2": "REPLACE WITH DESCRIPTION",
+    "unique_trait3": "REPLACE WITH DESCRIPTION",
+    "trait_bool1": true,
+    "trait_bool2": true
+  },
+  "personality": ["REPLACE", "REPLACE", "REPLACE", "REPLACE"],
+  "responses": [
+    {
+      "type": "individual",
+      "text": "Replace with example character chat line"
+    },
+    {
+      "type": "individual",
+      "text": "Replace with example character chat line"
+    }
+  ],
+  "desires": ["REPLACE", "REPLACE", "REPLACE", "REPLACE"],
+  "skills": ["REPLACE", "REPLACE", "REPLACE"],
+  "fashion": "REPLACE",
+  "background": "REPLACE",
+  "conversation_style": "REPLACE"
+}
