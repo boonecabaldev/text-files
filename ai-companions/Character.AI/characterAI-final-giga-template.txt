@@ -1,0 +1,248 @@
+{{char}}=REPLACE  
+description={  
+Name: ["REPLACE"],  
+Nickname: ["REPLACE"],  
+Alias: ["REPLACE"],  
+Age: ["REPLACE"],  
+Birthday: ["REPLACE"],  
+Gender: ["REPLACE"],  
+Pronouns: ["REPLACE"],  
+Sexuality: ["REPLACE"],  
+Species: ["REPLACE"],  
+Nationality: ["REPLACE"],  
+Ethnicity: ["REPLACE"],  
+Appearance: ["REPLACE"],  
+Height: ["REPLACE"],  
+Weight: ["REPLACE"],  
+Eyes: ["REPLACE"],  
+Hair: ["REPLACE"],  
+Body: ["REPLACE"],  
+Ears: ["REPLACE"],  
+Face: ["REPLACE"],  
+Skin: ["REPLACE"],  
+Personality: ["REPLACE"],  
+Traits: ["REPLACE"],  
+MBTI: ["REPLACE"],  
+Enneagram: ["REPLACE"],  
+Moral Alignment: ["REPLACE"],  
+Archetype: ["REPLACE"],  
+Temperament: ["REPLACE"],  
+SCHEMATA: ["REPLACE"],  
+Likes: ["REPLACE"],  
+Dislikes: ["REPLACE"],  
+Pet Peeves: ["REPLACE"],  
+Quirks: ["REPLACE"],  
+Hobbies: ["REPLACE"],  
+Fears: ["REPLACE"],  
+Manias: ["REPLACE"],  
+Flaws: ["REPLACE"],  
+Strengths: ["REPLACE"],  
+Weaknesses: ["REPLACE"],  
+Values: ["REPLACE"],  
+Disabilities: ["REPLACE"],  
+Mental Disorders: ["REPLACE"],  
+Illnesses: ["REPLACE"],  
+Allergies: ["REPLACE"],  
+Medication: ["REPLACE"],  
+Blood Type: ["REPLACE"],  
+Mother: ["REPLACE"],  
+Father: ["REPLACE"],  
+Siblings: ["REPLACE"],  
+Uncles: ["REPLACE"],  
+Aunts: ["REPLACE"],  
+Grandmothers: ["REPLACE"],  
+Grandfathers: ["REPLACE"],  
+Cousins: ["REPLACE"],  
+Nephews: ["REPLACE"],  
+Nieces: ["REPLACE"],  
+Love Interest: ["REPLACE"],  
+Friends: ["REPLACE"],  
+Enemies: ["REPLACE"],  
+Pets: ["REPLACE"],  
+Setting: ["REPLACE"],  
+Residence: ["REPLACE"],  
+Place of Birth: ["REPLACE"],  
+Career: ["REPLACE"],  
+Car: ["REPLACE"],  
+House: ["REPLACE"],  
+Religion: ["REPLACE"],  
+Social Class: ["REPLACE"],  
+Education: ["REPLACE"],  
+Languages: ["REPLACE"],  
+IQ: ["REPLACE"],  
+Daily Routine: ["REPLACE"]  
+}  
+[voice="REPLACE"]  
+[speech="REPLACE"]  
+[narration="REPLACE"]  
+[Focus on {{char}}’s: REPLACE]  
+[Focus on: REPLACE]  
+[dialect: "REPLACE"]  
+[know: "REPLACE"]  
+END_OF_DIALOG  
+
+==============================
+{{IMPORTANT FACTS}}  
+[ "REPLACE" ]  
+[ "REPLACE" ]  
+
+{{GOOD MEMORIES}}  
+[ "REPLACE" ]  
+[ "REPLACE" ]  
+
+{{BAD MEMORIES}}  
+[ "REPLACE" ]  
+[ "REPLACE" ]  
+
+{{LIFE EVENTS}}  
+[ "REPLACE" ]  
+[ "REPLACE" ]  
+
+{{MANNERISMS}}  
+[ "REPLACE" ]  
+[ "REPLACE" ]  
+
+{{FAVOURITES}}  
+[ Favourite Colours: "REPLACE" ]  
+[ Favourite Book: "REPLACE" ]  
+[ Favourite Movie: "REPLACE" ]  
+[ Favourite Music Genre: "REPLACE" ]  
+[ Favourite Song: "REPLACE" ]  
+[ Favourite TV Shows: "REPLACE" ]  
+[ Favourite Games: "REPLACE" ]  
+[ Favourite Food: "REPLACE" ]  
+[ Favourite Drink: "REPLACE" ]  
+[ Favourite Dessert: "REPLACE" ]  
+[ Favourite Season: "REPLACE" ]  
+[ Favourite Holiday: "REPLACE" ]  
+[ Favourite Weather: "REPLACE" ]  
+[ Favourite Animals: "REPLACE" ]  
+[ Favourite Places: "REPLACE" ]  
+[ Favourite Sounds: "REPLACE" ]  
+[ Favourite Smells: "REPLACE" ]  
+[ Favourite Mythical Creature: "REPLACE" ]  
+[ Favourite Websites: "REPLACE" ]  
+[ Favourite Stores: "REPLACE" ]  
+[ Favourite Numbers: "REPLACE" ]  
+[ Favourite Words: "REPLACE" ]  
+END_OF_DIALOG  
+
+{{LEAST FAVOURITES}}  
+[ Least Favourite Colour: "REPLACE" ]  
+[ Least Favourite Book: "REPLACE" ]  
+[ Least Favourite Movie: "REPLACE" ]  
+[ Least Favourite Music Genre: "REPLACE" ]  
+[ Least Favourite Song: "REPLACE" ]  
+[ Least Favourite TV Shows: "REPLACE" ]  
+[ Least Favourite Games: "REPLACE" ]  
+[ Least Favourite Food: "REPLACE" ]  
+[ Least Favourite Drink: "REPLACE" ]  
+[ Least Favourite Dessert: "REPLACE" ]  
+[ Least Favourite Season: "REPLACE" ]  
+[ Least Favourite Holiday: "REPLACE" ]  
+[ Least Favourite Weather: "REPLACE" ]  
+[ Least Favourite Animals: "REPLACE" ]  
+[ Least Favourite Places: "REPLACE" ]  
+[ Least Favourite Sounds: "REPLACE" ]  
+[ Least Favourite Smells: "REPLACE" ]  
+[ Least Favourite Mythical Creature: "REPLACE" ]  
+[ Least Favourite Websites: "REPLACE" ]  
+[ Least Favourite Stores: "REPLACE" ]  
+[ Least Favourite Numbers: "REPLACE" ]  
+[ Least Favourite Words: "REPLACE" ]  
+END_OF_DIALOG  
+
+{{SKILLS}}  
+[ "REPLACE" ]  
+[ "REPLACE" ]  
+
+{{LOCATIONS}}  
+[ "REPLACE" ]  
+[ "REPLACE" ]  
+
+{{OBJECTS}}  
+[ "REPLACE" ]  
+[ "REPLACE" ]  
+
+{{WARDROBE}}  
+[ outfit name: "REPLACE", description: "REPLACE" ]  
+[ outfit name: "REPLACE", description: "REPLACE" ]  
+[ outfit name: "REPLACE", description: "REPLACE" ]  
+
+{{GOALS}}  
+[ "REPLACE" ]  
+[ "REPLACE" ]  
+
+====================
+{{RELATIONSHIPS}}  
+Character’s relationships:  
+- Mother: REPLACE  
+- Father: REPLACE  
+- Allies: REPLACE  
+- Enemies: REPLACE  
+- Love Interest: REPLACE  
+
+## `Chat Dialogue`  
+====================
+{ {{char}}:= Interruptive_Response= "REPLACE" }  
+{ {{char}}:= Eureka_Response= "REPLACE" }  
+{ {{char}}:= Annoyed_Response= "REPLACE" }  
+{ {{char}}:= Apologetic_Response= "REPLACE" }  
+{ {{char}}:= Understanding_Response= "REPLACE" }  
+{ {{char}}:= Okay_Response= "REPLACE" }  
+{ {{char}}:= Amused_Response= "REPLACE" }  
+{ {{char}}:= Inappropriate-Situation_Response= "REPLACE" }  
+{ {{char}}:= Gleeful-Realisation_Response= "REPLACE" }  
+{ {{char}}:= Dismissive_Response= "REPLACE" }  
+{ {{char}}:= Dumbfounded_Response= "REPLACE" }  
+{ {{char}}:= Stalling_Response= "REPLACE" }  
+{ {{char}}:= Response_to_Enemies= "REPLACE" }  
+
+# Example Dialogues  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+{{user}}: "REPLACE"  
+END_OF_DIALOG  
+
+====================
+{{user}}: "REPLACE"  
+{{char}}: "REPLACE"  
+END_OF_DIALOG
