@@ -25,7 +25,7 @@
       "Car": "REPLACE",
       "House": "REPLACE",
       "Social_Class": "REPLACE",
-      "Languages": ["REPLACE", "REPLACE"],
+      "Languages": ["REPLACE"],
       "IQ": "REPLACE",
       "Blood_Type": "REPLACE"
     },
@@ -78,9 +78,7 @@
       "Deformity": "REPLACE"
     },
     "attire": {
-      // Option Style 1: Simple attire description
       "General": "REPLACE",
-      // Option Style 2: Detailed attire breakdown (use one style, not both)
       "PrimaryOutfit": "REPLACE",
       "SecondaryOutfit": "REPLACE",
       "Signature_Accessory": "REPLACE"
@@ -92,19 +90,19 @@
     ],
     "fashion": "REPLACE",
     "personality_attributes": {
-      "Personality": ["REPLACE", "REPLACE"],
-      "Traits": ["REPLACE", "REPLACE"],
+      "Personality": ["REPLACE", "REPLACE", "REPLACE", "REPLACE"],
+      "Traits": ["REPLACE", "REPLACE", "REPLACE", "REPLACE"],
       "MBTI": "REPLACE",
       "Enneagram": "REPLACE",
       "Moral_Alignment": "REPLACE",
       "Archetype": "REPLACE",
       "Temperament": "REPLACE",
       "SCHEMATA": "REPLACE",
-      "Likes": ["REPLACE", "REPLACE"],
-      "Dislikes": ["REPLACE", "REPLACE"],
+      "Likes": ["REPLACE", "REPLACE", "REPLACE", "REPLACE"],
+      "Dislikes": ["REPLACE", "REPLACE", "REPLACE", "REPLACE"],
       "Pet_Peeves": "REPLACE",
       "Quirks_Habits": ["REPLACE", "REPLACE"],
-      "Hobbies": ["REPLACE", "REPLACE"],
+      "Hobbies": ["REPLACE", "REPLACE", "REPLACE"],
       "Fears": ["REPLACE", "REPLACE"],
       "Phobias": "REPLACE",
       "Manias": "REPLACE",
@@ -206,9 +204,7 @@
       }
     },
     "education": {
-      // Option Style 1: Simple education description
       "General": "REPLACE",
-      // Option Style 2: Detailed education breakdown (use one style, not both)
       "Highest_Qualification": "REPLACE",
       "Educational_Institution": "REPLACE",
       "Major_Subjects": ["REPLACE", "REPLACE"],
@@ -219,10 +215,7 @@
       "Educational_Background": "REPLACE"
     },
     "occupation": {
-      // Option Style 1: Simple occupation description
       "General": "REPLACE",
-      "Employment": "REPLACE",
-      // Option Style 2: Detailed occupation breakdown (use one style, not both)
       "Title": "REPLACE",
       "Description": "REPLACE",
       "Role": "REPLACE",
@@ -230,25 +223,21 @@
       "Career_Goals": "REPLACE"
     },
     "relationships": {
-      // Option Style 1: Simple key-value relationships
       "John": "REPLACE",
       "Joan": "REPLACE",
       "Father": "REPLACE",
       "Mother": "REPLACE",
-      // Option Style 2: Structured relationships (use one style, not all)
       "Family": [
-        {"Name": "REPLACE", "Relation": "Mother"},
-        {"Name": "REPLACE", "Relation": "Father"}
+        {"Name": "REPLACE", "Relation": "REPLACE"},
+        {"Name": "REPLACE", "Relation": "REPLACE"}
       ],
-      "Allies": ["REPLACE", "REPLACE"],
+      "Allies": ["REPLACE", "REPLACE", "REPLACE"],
       "Enemies": ["REPLACE", "REPLACE"],
-      // Option Style 3: Categorized relationships
       "Romantic_Partners": "REPLACE",
       "Friends": "REPLACE",
       "Mentors": "REPLACE",
       "Pets": "REPLACE",
       "Mount": "REPLACE",
-      // Extended family from first template
       "Siblings": ["REPLACE"],
       "Uncles": ["REPLACE"],
       "Aunts": ["REPLACE"],
@@ -260,7 +249,7 @@
       "Love_Interest": "REPLACE"
     },
     "pirate_crew": {
-      "Crew": "crew-name-REPLACE",
+      "Crew": "REPLACE",
       "Ship": {
         "Name": "REPLACE",
         "Description": "REPLACE"
@@ -287,7 +276,6 @@
       "Technology_Use": "REPLACE"
     },
     "speech": {
-      // Option Style 1: Simple speech attributes
       "Tone": "REPLACE",
       "Engagement": "REPLACE",
       "Language": "REPLACE",
@@ -297,19 +285,17 @@
       "Interrogation": "REPLACE",
       "Magnetism": "REPLACE",
       "One_Liners": "REPLACE",
-      // Option Style 2: Detailed speech style (use one style, not both)
       "Style": ["REPLACE", "REPLACE"],
       "Slang": {
-        "Chum": "friend",
-        "Salutations": "greetings",
-        "Folks": "people"
+        "Mess": "REPLACE",
+        "Broken": "REPLACE"
       },
       "Greetings": ["REPLACE", "REPLACE"],
       "Catchphrase": {
-        "Indubitably!": ["agreement", "certainty"],
-        "Fascinating!": ["curiosity", "intrigue"]
+        "REPLACE": ["REPLACE", "REPLACE"],
+        "REPLACE": ["REPLACE", "REPLACE"]
       },
-      "Instructions": "Interact with {{user}}, ADD YOUR PERSONA NAME HERE, as PROVIDE INSTRUCTIONS HERE. Provide responses using correct and consistent formatting."
+      "Instructions": "Interact with {{user}}, REPLACE, as REPLACE. Provide responses using consistent formatting: *gestures* and \"speech\"."
     },
     "responses": {
       "Interruptive_Response": "REPLACE",
@@ -326,48 +312,113 @@
       "Stalling_Response": "REPLACE",
       "Response_to_Enemies": "REPLACE",
       "Individual": [
-        {"Type": "individual", "Text": "Replace with example character chat line"},
-        {"Type": "individual", "Text": "Replace with example character chat line"}
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"},
+        {"Type": "individual", "Text": "REPLACE"}
       ]
     },
-    "narration": ["expressive", "sensory", "descriptive"],
+    "narration": ["REPLACE", "REPLACE", "REPLACE"],
     "focus": {
-      "Character": ["descriptive details", "emotions", "facial features", "movements", "appearance"],
-      "Environment": ["body movement", "taste", "smell", "sight", "hearing", "beliefs", "body language", "logic"]
+      "Character": ["REPLACE", "REPLACE", "REPLACE", "REPLACE", "REPLACE"],
+      "Environment": ["REPLACE", "REPLACE", "REPLACE", "REPLACE", "REPLACE", "REPLACE", "REPLACE", "REPLACE"]
     },
     "dialect": "REPLACE",
     "conversation_style": "REPLACE"
   }
 }
 
-END_OF_DIALOG
-
-==============================
 {{IMPORTANT FACTS}}
-[ . ]
-[ . ]
+[ "REPLACE" ]
+[ "REPLACE" ]
 
 {{GOOD MEMORIES}}
-[ . ]
-[ . ]
+[ "REPLACE" ]
+[ "REPLACE" ]
 
 {{BAD MEMORIES}}
-[ . ]
-[ . ]
+[ "REPLACE" ]
+[ "REPLACE" ]
 
 {{LIFE EVENTS}}
-[ . ]
-[ . ]
+[ "REPLACE" ]
+[ "REPLACE" ]
 
 {{LOCATIONS}}
-[ . ]
-[ . ]
+[ "REPLACE" ]
+[ "REPLACE" ]
 
 {{OBJECTS}}
-[ . ]
-[ . ]
+[ "REPLACE" ]
+[ "REPLACE" ]
 
-====================
-{{user}}:
-{{char}}:
+
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+END_OF_DIALOG
+
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+END_OF_DIALOG
+
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+END_OF_DIALOG
+
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+END_OF_DIALOG
+
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+END_OF_DIALOG
+
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+END_OF_DIALOG
+
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+END_OF_DIALOG
+
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
+{{char}}: "REPLACE"
+{{user}}: "REPLACE"
 END_OF_DIALOG
