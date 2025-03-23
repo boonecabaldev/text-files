@@ -1,6 +1,6 @@
 # Stack - GoodSource SOLUTIONS Sugar-Free Drink Mix
 
-> i've discovered that taking a combination of coffee and 2 juice packet containg the following ingredients creates a very noticeable boost in concentration, but i dont know why:
+> i've discovered that taking a combination of coffee and 2 prison juice packets [Great Value Fruit Punch Drink Mix](https://www.walmart.com/ip/Great-Value-Sugar-Free-Fruit-Punch-Drink-Mix-Powder-1-9-oz-6-Count/10415083?classType=VARIANT&athbdg=L1300&from=/search) (close in ingredients) Punch containg the following ingredients creates a very noticeable boost in concentration, but i dont know why:
 > 
 > *maltodextrine, citric acid, tricalcium phosphate, absorbic acid, aspartame, saccharin and acesulfame, zinc sulphate, sodium citrate, silicon dixids, vitamin d, PHENYLVETONURICS: CONTAINS PHENYLALANINE*
 
