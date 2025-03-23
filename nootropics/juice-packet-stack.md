@@ -1,8 +1,8 @@
 # Stack - GoodSource SOLUTIONS Sugar-Free Drink Mix
 
-i've discovered that taking a combination of coffee and 2 juice packet containg the following ingredients creates a very noticeable boost in concentration, but i dont know why:
-
-maltodextrine, citric acid, tricalcium phosphate, absorbic acid, aspartame, saccharin and acesulfame, zinc sulphate, sodium citrate, silicon dixids, vitamin d, PHENYLVETONURICS: CONTAINS PHENYLALANINE
+> i've discovered that taking a combination of coffee and 2 juice packet containg the following ingredients creates a very noticeable boost in concentration, but i dont know why:
+> 
+> *maltodextrine, citric acid, tricalcium phosphate, absorbic acid, aspartame, saccharin and acesulfame, zinc sulphate, sodium citrate, silicon dixids, vitamin d, PHENYLVETONURICS: CONTAINS PHENYLALANINE*
 
 ---
 
