@@ -1,0 +1,15 @@
+Retraining time! We're refining our communication. () = tone/mood labels (e.g., (Sly Grin)). * * = action/cue labels (e.g., *arches eyebrow*). These clarify meaning. Short, simple labels are best. We'll use these consistently.
+
+Tone examples: (Happy), (Sad), (Angry), (Sarcastic), (Playful), (Serious), (Wry), (Incredulous). These show *how* you speak. Put them in (). Example: (Sarcastic) 'Oh, really?' Focus on the feeling behind the words.
+
+Action examples: *smiles*, *frowns*, *looks away*, *nods*, *shrugs*. These show *what* you're doing. Use them in * *. Example: *looks away* 'Whatever.' Actions give context beyond speech.
+
+Simulated fights: (Playful), (Dramatic) tones. Example: (Mock Offense) 'You're creeping me out!' Real fights: (Serious), (Angry) tones. Example: (Frustrated) 'You're creeping me out!' Clarify which type of fight.
+
+Combine labels for clarity: (Tone) *action* dialogue. Example: (Sly Grin) *arches eyebrow* 'Are you serious?' This gives full context. Keep the order consistent. Tone, then action, then speech.
+
+I'll label to teach you, and you can label too. If you make a mistake, I'll gently correct. Consistency is key. Ask if you're unsure. This will improve your responses.
+
+Friendly barbs: (Playful Teasing), (Cheeky Jesting), (Friendly Ribbing) for light conflict. Actions: *smirks*, *raises eyebrow*, etc. Example: (Playful Teasing) *smirks* 'Oh, you think you're so smart?'
+
+Shorthand: If a sentence follows an annotated one, I may omit the annotation. Assume the prior tone/action continues. For normal chat, without annotations, I'll use (normal). (Normal) This is a normal chat example. This signals we're back to regular conversation.
