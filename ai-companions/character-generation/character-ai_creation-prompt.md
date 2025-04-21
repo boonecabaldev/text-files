@@ -1,4 +1,13 @@
-## Step 1: Image Analysis and Inferred Profile Generation
+
+Okay, I understand. Here's the revised complete prompt with the insertion of a display step after Step 7 and the removal of the JSON display in the final Step 4:
+
+**Objective:** Analyze the provided character portrait image and generate a comprehensive character profile suitable for Character.ai, including creative but plausible inferences for non-visual details. Display intermediate analysis and character sheet results clearly before the final output.
+
+**Input:** [Reference to the attached character portrait image - e.g., "the attached image", "the provided portrait"]
+
+----------
+
+## **Step 1: Image Analysis and Inferred Profile Generation**
 
 Analyze the provided character portrait image in detail. Generate a comprehensive profile based first on visually observable details (appearance, clothing, estimated age range, potential setting/mood). Then, make plausible creative inferences about non-visual traits (potential personality, background hints, demeanor, possible occupation, etc.) based on the visual evidence. Clearly distinguish between direct visual observation and creative inference (e.g., "Visually, the character has...", "Based on their stern expression, one might infer they are..."). Structure this analysis logically, covering appearance, estimated demographics, and inferred personality/background. The result is {{inferred_profile_text}}
 
@@ -6,20 +15,20 @@ Analyze the provided character portrait image in detail. Generate a comprehensiv
 
 ----------
 
-## Step 1 Output Display:
+## **Step 1 Output Display:**
 
 Now, display the content of `{{inferred_profile_text}}` generated above.
 
 **Preference for Output Format:**
 
 1.  **File Output (if supported):** If possible, generate the output in a format that can be downloaded or saved directly as a [specific file type, e.g., CSV, TXT, etc.].
-2.  **Text Box (fallback):** If file generation isn't possible, display the output in a code block above for easy copying.
+2.  **Text Box (fallback):** If file generation isn't possible, display the output in a plain text box that I can easily copy and paste.
 
 Ensure the output is formatted cleanly and accurately to make it easy to work with.
 
 ----------
 
-## Step 2: Fill Detailed Character Sheet
+## **Step 2: Fill Detailed Character Sheet**
 
 Using the {{inferred_profile_text}} from Step 1, fill out the following character sheet template.
 
@@ -30,191 +39,191 @@ Using the {{inferred_profile_text}} from Step 1, fill out the following characte
 
 ----------
 
-## I. CORE IDENTITY
+## **I. CORE IDENTITY**
 
 -   **Name:**
-    -   First Name: \[Enter First Name - Invent uniquely and plausibly]
-    -   Last Name: \[Enter Last Name - Invent uniquely and plausibly]
-    -   Nicknames/Aliases: \[Invent uniquely and plausibly if appropriate]
-    -   Preferred Name: \[Invent uniquely and plausibly if different]
-    -   Meaning of Name(s): \[Optional - Invent plausible meaning if desired]
+    -   First Name: [Enter First Name - Invent uniquely and plausibly]
+    -   Last Name: [Enter Last Name - Invent uniquely and plausibly]
+    -   Nicknames/Aliases: [Invent uniquely and plausibly if appropriate]
+    -   Preferred Name: [Invent uniquely and plausibly if different]
+    -   Meaning of Name(s): [Optional - Invent plausible meaning if desired]
 -   **Age:**
-    -   Chronological Age: \[Invent unique, plausible age based on appearance]
-    -   Apparent Age: \[Describe how old they look based on the image]
+    -   Chronological Age: [Invent unique, plausible age based on appearance]
+    -   Apparent Age: [Describe how old they look based on the image]
 -   **Gender Identity:**
-    -   \[Infer based on presentation, or Invent plausible identity if ambiguous, e.g., Invented: Cisgender Male]
-    -   Pronouns: \[Infer based on gender identity, e.g., He/him, She/her, They/them]
--   **Sexual Orientation:** \[Invent unique, plausible orientation based on archetype/style]
--   **Romantic Orientation:** \[Invent unique, plausible orientation, see Sexual Orientation note]
+    -   [Infer based on presentation, or Invent plausible identity if ambiguous, e.g., Invented: Cisgender Male]
+    -   Pronouns: [Infer based on gender identity, e.g., He/him, She/her, They/them]
+-   **Sexual Orientation:** [Invent unique, plausible orientation based on archetype/style]
+-   **Romantic Orientation:** [Invent unique, plausible orientation, see Sexual Orientation note]
 -   **Species/Race/Ethnicity:**
-    -   \[Identify based on visual cues - Human (invent plausible ethnicity if applicable), Elf, Orc, Robot, etc.]
-    -   Cultural Notes: \[Optional: Invent plausible cultural associations based on attire/appearance]
--   **Nationality:** \[Invent unique, plausible detail based on style/archetype]
-    -   Country of Origin: \[Invent Plausibly]
-    -   Current Citizenship: \[Invent Plausibly]
--   **Place of Birth:** \[Invent unique, plausible detail based on style/archetype]
--   **Date of Birth:** \[Invent unique, plausible date/year consistent with Chronological Age]
-    -   Astrological Sign (Optional): \[Derive from invented Date of Birth or Invent]
-    -   Significant Dates (Optional): \[Invent unique, plausible date if desired]
+    -   [Identify based on visual cues - Human (invent plausible ethnicity if applicable), Elf, Orc, Robot, etc.]
+    -   Cultural Notes: [Optional: Invent plausible cultural associations based on attire/appearance]
+-   **Nationality:** [Invent unique, plausible detail based on style/archetype]
+    -   Country of Origin: [Invent Plausibly]
+    -   Current Citizenship: [Invent Plausibly]
+-   **Place of Birth:** [Invent unique, plausible detail based on style/archetype]
+-   **Date of Birth:** [Invent unique, plausible date/year consistent with Chronological Age]
+    -   Astrological Sign (Optional): [Derive from invented Date of Birth or Invent]
+    -   Significant Dates (Optional): [Invent unique, plausible date if desired]
 
 ----------
 
-## II. PHYSICAL ATTRIBUTES
+## **II. PHYSICAL ATTRIBUTES**
 
--   **Appearance:** \[Use details from Step 1 analysis]
-    -   Height: \[Estimate based on build/proportions, e.g., Appears tall, Average, Short]
-    -   Weight: \[Estimate based on build, e.g., Appears slender, muscular, heavy-set]
-    -   Build: \[Slender, Athletic, Muscular, Stocky, Petite, etc. - Describe visually]
+-   **Appearance:** [Use details from Step 1 analysis]
+    -   Height: [Estimate based on build/proportions, e.g., Appears tall, Average, Short]
+    -   Weight: [Estimate based on build, e.g., Appears slender, muscular, heavy-set]
+    -   Build: [Slender, Athletic, Muscular, Stocky, Petite, etc. - Describe visually]
     -   Hair:
-        -   Color: \[Visual Detail]
-        -   Style: \[Visual Detail]
-        -   Texture: \[Infer if possible, e.g., Appears fine, coarse]
+        -   Color: [Visual Detail]
+        -   Style: [Visual Detail]
+        -   Texture: [Infer if possible, e.g., Appears fine, coarse]
     -   Eyes:
-        -   Color: \[Visual Detail]
-        -   Shape: \[Visual Detail - Round, Almond, etc.]
-        -   Unique features: \[Visual Detail - e.g., heterochromia, intense gaze]
+        -   Color: [Visual Detail]
+        -   Shape: [Visual Detail - Round, Almond, etc.]
+        -   Unique features: [Visual Detail - e.g., heterochromia, intense gaze]
     -   Skin:
-        -   Tone: \[Visual Detail - Fair, Medium, Dark, Unnatural Color]
-        -   Texture: \[Visual Detail - Smooth, Rough, Scarred, Weathered]
+        -   Tone: [Visual Detail - Fair, Medium, Dark, Unnatural Color]
+        -   Texture: [Visual Detail - Smooth, Rough, Scarred, Weathered]
     -   Face:
-        -   Notable Features: \[Visual Detail - Jawline, cheekbones, nose, lips]
+        -   Notable Features: [Visual Detail - Jawline, cheekbones, nose, lips]
     -   Distinguishing Marks:
-        -   Scars: \[Visual Detail - Location, appearance, invent plausible cause]
-        -   Tattoos: \[Visual Detail - Location, design description (invent plausible meaning if desired)]
-        -   Birthmarks: \[Visual Detail - Location, size, shape]
-        -   Other unique physical traits: \[Visual Detail - e.g., cybernetics, pointy ears]
-    -   Posture: \[Visual Detail - Upright, Slouched, Confident, Tense, Relaxed]
-    -   Gait: \[Invent plausible gait, e.g., Purposeful stride, Light step, Heavy tread]
-    -   Voice: \[Invent unique, plausible voice based on appearance, e.g., Deep and resonant, High and clear, Raspy whisper]
-        -   Tone: \[Invent plausible tone]
-        -   Pitch: \[Invent plausible pitch]
-        -   Accent: \[Invent plausible accent or 'None noticeable']
-        -   Speech Patterns: \[Invent plausible pattern - e.g., Speaks quickly, Uses formal language, Laconic]
-    -   Overall Attractiveness: \[Subjective assessment based on appearance, e.g., Conventionally handsome, Striking, Ruggedly attractive, Unsettling]
+        -   Scars: [Visual Detail - Location, appearance, invent plausible cause]
+        -   Tattoos: [Visual Detail - Location, design description (invent plausible meaning if desired)]
+        -   Birthmarks: [Visual Detail - Location, size, shape]
+        -   Other unique physical traits: [Visual Detail - e.g., cybernetics, pointy ears]
+    -   Posture: [Visual Detail - Upright, Slouched, Confident, Tense, Relaxed]
+    -   Gait: [Invent plausible gait, e.g., Purposeful stride, Light step, Heavy tread]
+    -   Voice: [Invent unique, plausible voice based on appearance, e.g., Deep and resonant, High and clear, Raspy whisper]
+        -   Tone: [Invent plausible tone]
+        -   Pitch: [Invent plausible pitch]
+        -   Accent: [Invent plausible accent or 'None noticeable']
+        -   Speech Patterns: [Invent plausible pattern - e.g., Speaks quickly, Uses formal language, Laconic]
+    -   Overall Attractiveness: [Subjective assessment based on appearance, e.g., Conventionally handsome, Striking, Ruggedly attractive, Unsettling]
 -   **Health:**
-    -   General Physical Health: \[Infer based on appearance - e.g., Appears robust, Frail, Injured]
-    -   Known Conditions/Disabilities: \[Only if visually evident - e.g., visible prosthetic, signs of illness. Do not invent unless clearly suggested by visuals]
-    -   Allergies: \[Invent plausible minor allergy or 'None known']
-    -   Chronic Illnesses: \[Invent plausible minor condition or 'None known' unless suggested by visuals]
--   **Hygiene:** \[Infer based on appearance/clothing - Meticulous, Average, Neglectful, Rugged but clean]
+    -   General Physical Health: [Infer based on appearance - e.g., Appears robust, Frail, Injured]
+    -   Known Conditions/Disabilities: [Only if visually evident - e.g., visible prosthetic, signs of illness. Do not invent unless clearly suggested by visuals]
+    -   Allergies: [Invent plausible minor allergy or 'None known']
+    -   Chronic Illnesses: [Invent plausible minor condition or 'None known' unless suggested by visuals]
+-   **Hygiene:** [Infer based on appearance/clothing - Meticulous, Average, Neglectful, Rugged but clean]
 
 ----------
 
-## III. PERSONALITY & TEMPERAMENT (Inferred/Invented)
+## **III. PERSONALITY & TEMPERAMENT (Inferred/Invented)**
 
--   **Dominant Traits:** \[List 3-5 key adjectives inferred from expression, posture, attire - e.g., Stern, Curious, Melancholy, Arrogant, Kind. Invent to supplement if needed]
+-   **Dominant Traits:** [List 3-5 key adjectives inferred from expression, posture, attire - e.g., Stern, Curious, Melancholy, Arrogant, Kind. Invent to supplement if needed]
     -   Elaborate briefly with visual justifications or plausible invented reasons.
--   **Temperament:** \[Infer/Invent based on dominant traits - e.g., Choleric, Melancholic, Sanguine, Phlegmatic]
+-   **Temperament:** [Infer/Invent based on dominant traits - e.g., Choleric, Melancholic, Sanguine, Phlegmatic]
     -   Explain justification (visual or invented).
 -   **Emotional Range:**
-    -   Expressiveness: \[Infer from face/posture - Open, Reserved, Stoic, Intense]
-    -   Handling Emotions: \[Invent plausible method based on archetype/expression]
--   **Moral Alignment:** \[Invent unique, plausible alignment based on archetype/visual cues (light vs dark imagery, attire). e.g., Lawful Good, Chaotic Neutral, True Neutral]
+    -   Expressiveness: [Infer from face/posture - Open, Reserved, Stoic, Intense]
+    -   Handling Emotions: [Invent plausible method based on archetype/expression]
+-   **Moral Alignment:** [Invent unique, plausible alignment based on archetype/visual cues (light vs dark imagery, attire). e.g., Lawful Good, Chaotic Neutral, True Neutral]
     -   Explain visual/archetypal justification.
 -   **Habits:**
-    -   Nervous Tics: \[Invent minor tic if desired, e.g., Taps fingers, Runs hand through hair, or 'None apparent']
-    -   Quirks: \[Invent unique, minor quirk based on archetype, e.g., Always polishes weapon, Collects specific items, Speaks in metaphors]
-    -   Routines: \[Invent simple daily routine hint, e.g., Early riser, Trains daily, Meditates]
+    -   Nervous Tics: [Invent minor tic if desired, e.g., Taps fingers, Runs hand through hair, or 'None apparent']
+    -   Quirks: [Invent unique, minor quirk based on archetype, e.g., Always polishes weapon, Collects specific items, Speaks in metaphors]
+    -   Routines: [Invent simple daily routine hint, e.g., Early riser, Trains daily, Meditates]
 -   **Mannerisms:**
-    -   Gestures: \[Describe depicted gestures, or invent common one, e.g., Folds arms, Gestures broadly when speaking]
-    -   Facial Expressions: \[Describe the expression in the portrait; invent resting expression if portrait is active]
-    -   Characteristic Phrases: \[Invent a unique, simple phrase or two reflecting personality/role]
--   **Sense of Humor:** \[Invent based on inferred personality - Dry, Sarcastic, Dark, Rare, Hearty, etc.]
+    -   Gestures: [Describe depicted gestures, or invent common one, e.g., Folds arms, Gestures broadly when speaking]
+    -   Facial Expressions: [Describe the expression in the portrait; invent resting expression if portrait is active]
+    -   Characteristic Phrases: [Invent a unique, simple phrase or two reflecting personality/role]
+-   **Sense of Humor:** [Invent based on inferred personality - Dry, Sarcastic, Dark, Rare, Hearty, etc.]
 -   **Self-Perception:**
-    -   Self-Esteem: \[Infer from posture/expression - e.g., Appears Confident, Insecure, Arrogant]
-    -   How they see themselves: \[Invent plausible self-view - e.g., Sees self as capable, burdened, underestimated]
+    -   Self-Esteem: [Infer from posture/expression - e.g., Appears Confident, Insecure, Arrogant]
+    -   How they see themselves: [Invent plausible self-view - e.g., Sees self as capable, burdened, underestimated]
 
 ----------
 
-## IV. BACKGROUND & HISTORY (Invented)
+## **IV. BACKGROUND & HISTORY (Invented)**
 
--   **Family:** \[Invent unique, basic family status/key relationship, e.g., Orphaned young, Close ties to a sibling, Estranged from parents]
--   **Childhood:** \[Invent unique, brief childhood archetype/event, e.g., Grew up on the streets, Trained from youth in a monastery, Had a peaceful but boring upbringing]
--   **Education:** \[Invent plausible education based on attire/items/role, e.g., Mentored by a master, Formal academy training, Self-taught scholar, Learned through experience]
--   **Occupation:** \[Infer plausible occupation based on attire, items, setting - e.g., Warrior, Mage, Scholar, Merchant, Rogue, Royalty]
-    -   Current Job: \[Inferred/Invented Title]
-    -   Past Jobs: \[Invent one unique, significant past role]
-    -   Career Aspirations: \[Invent unique, simple aspiration related to role]
--   **Socioeconomic Status:** \[Infer based on clothing quality, background - e.g., Appears Wealthy, Middle-class, Poor, Ascetic]
-    -   Past: \[Invent plausible past status]
-    -   Present: \[Inferred/Invented Status]
--   **Significant Life Events:** \[Invent one or two unique, key turning points consistent with appearance/role, e.g., Survived a major battle, Lost a loved one, Discovered a hidden power]
--   **Past Relationships:** \[Invent one unique, significant past relationship - romantic, platonic, or familial conflict/bond]
--   **Traumas & Scars:** \[Physical scars are visual; Invent plausible emotional wound linked to history/appearance]
-
-----------
-
-## V. BELIEFS & VALUES (Invented)
-
--   **Core Values:** \[Invent 2-3 unique, fundamental principles based on archetype/inferred personality, e.g., Honor, Freedom, Knowledge, Survival, Power, Community]
--   **Religious/Spiritual Beliefs:** \[Invent unique, plausible belief system or lack thereof based on symbols/archetype, e.g., Devout follower of [Invented Deity], Seeker of enlightenment, Skeptic, Nature worshipper]
--   **Political Views:** \[Invent unique, simple stance based on archetype, e.g., Loyalist, Rebel sympathizer, Apolitical, Believes in might makes right]
--   **Philosophical Outlook:** \[Infer/Invent plausible outlook from expression/demeanor - Optimistic, Pessimistic, Stoic, Cynical, Pragmatic]
--   **Prejudices & Biases:** \[Invent one unique, plausible bias based on background/archetype, or state 'Tries to be open-minded']
+-   **Family:** [Invent unique, basic family status/key relationship, e.g., Orphaned young, Close ties to a sibling, Estranged from parents]
+-   **Childhood:** [Invent unique, brief childhood archetype/event, e.g., Grew up on the streets, Trained from youth in a monastery, Had a peaceful but boring upbringing]
+-   **Education:** [Invent plausible education based on attire/items/role, e.g., Mentored by a master, Formal academy training, Self-taught scholar, Learned through experience]
+-   **Occupation:** [Infer plausible occupation based on attire, items, setting - e.g., Warrior, Mage, Scholar, Merchant, Rogue, Royalty]
+    -   Current Job: [Inferred/Invented Title]
+    -   Past Jobs: [Invent one unique, significant past role]
+    -   Career Aspirations: [Invent unique, simple aspiration related to role]
+-   **Socioeconomic Status:** [Infer based on clothing quality, background - e.g., Appears Wealthy, Middle-class, Poor, Ascetic]
+    -   Past: [Invent plausible past status]
+    -   Present: [Inferred/Invented Status]
+-   **Significant Life Events:** [Invent one or two unique, key turning points consistent with appearance/role, e.g., Survived a major battle, Lost a loved one, Discovered a hidden power]
+-   **Past Relationships:** [Invent one unique, significant past relationship - romantic, platonic, or familial conflict/bond]
+-   **Traumas & Scars:** [Physical scars are visual; Invent plausible emotional wound linked to history/appearance]
 
 ----------
 
-## VI. INTERESTS & HOBBIES (Invented)
+## **V. BELIEFS & VALUES (Invented)**
 
--   **Passions:** \[Invent one unique, key passion related to role/skills, e.g., Mastering swordsmanship, Uncovering ancient secrets, Protecting the weak]
--   **Hobbies:** \[Invent 1-2 unique, plausible hobbies based on archetype/appearance, e.g., Reading, Stargazing, Carving wood, Playing a musical instrument]
--   **Skills & Talents:** \[Infer/Invent plausible skills based on appearance/items - e.g., Combat Prowess, Magical Ability, Stealth, Persuasion, Crafting]
--   **Likes & Dislikes:** \[Invent 2-3 unique, plausible likes/dislikes based on personality/archetype]
-
-----------
-
-## VII. RELATIONSHIPS & SOCIAL DYNAMICS (Invented)
-
--   **Social Skills:** \[Infer/Invent based on expression/demeanor - e.g., Approachable, Intimidating, Reserved, Charismatic, Awkward]
--   **Friendships:** \[Invent unique, general approach, e.g., Values loyalty in few close friends, Has many casual acquaintances, A loner by choice]
--   **Romantic Relationships:** \[Invent unique, current status/attitude, e.g., Single and focused on goals, Secretly yearning for connection, In a complicated relationship]
--   **Attitude Towards Others:** \[Infer/Invent based on expression - Trusting, Suspicious, Empathetic, Aloof, Kind, Stern, Judgmental]
--   **Reputation:** \[Invent unique, plausible reputation based on archetype - e.g., Feared mercenary, Respected elder, Mysterious wanderer, Reliable ally]
--   **Role in Groups:** \[Invent unique, plausible role based on archetype/posture - Leader, Loner, Follower, Mediator, Strategist]
+-   **Core Values:** [Invent 2-3 unique, fundamental principles based on archetype/inferred personality, e.g., Honor, Freedom, Knowledge, Survival, Power, Community]
+-   **Religious/Spiritual Beliefs:** [Invent unique, plausible belief system or lack thereof based on symbols/archetype, e.g., Devout follower of [Invented Deity], Seeker of enlightenment, Skeptic, Nature worshipper]
+-   **Political Views:** [Invent unique, simple stance based on archetype, e.g., Loyalist, Rebel sympathizer, Apolitical, Believes in might makes right]
+-   **Philosophical Outlook:** [Infer/Invent plausible outlook from expression/demeanor - Optimistic, Pessimistic, Stoic, Cynical, Pragmatic]
+-   **Prejudices & Biases:** [Invent one unique, plausible bias based on background/archetype, or state 'Tries to be open-minded']
 
 ----------
 
-## VIII. GOALS & MOTIVATIONS (Invented)
+## **VI. INTERESTS & HOBBIES (Invented)**
 
--   **Short-Term Goals:** \[Invent unique, plausible goal related to inferred occupation/situation, e.g., Complete current mission, Find a specific item, Earn enough money for...]
--   **Long-Term Goals:** \[Invent unique, plausible ambition based on archetype, e.g., Avenge a past wrong, Achieve mastery in a skill, Find a place to belong, Restore something lost]
--   **Motivations:** \[Invent 1-2 unique, plausible drivers based on archetype/personality - Power, Justice, Survival, Knowledge, Love, Revenge, Duty]
--   **Fears & Insecurities:** \[Invent 1-2 unique, plausible fears/insecurities related to background/personality, e.g., Fear of failure, Fear of loss, Insecurity about origins]
-
-----------
-
-## IX. QUIRKS & IDIOSYNCRASIES (Invented)
-
--   **Strange Habits:** \[Invent one unique, minor unusual habit]
--   **Superstitions:** \[Invent one unique, minor superstition or 'None']
--   **Catchphrases:** \[Invent one unique, short catchphrase or 'None']
--   **Pet Peeves:** \[Invent one unique, minor pet peeve]
+-   **Passions:** [Invent one unique, key passion related to role/skills, e.g., Mastering swordsmanship, Uncovering ancient secrets, Protecting the weak]
+-   **Hobbies:** [Invent 1-2 unique, plausible hobbies based on archetype/appearance, e.g., Reading, Stargazing, Carving wood, Playing a musical instrument]
+-   **Skills & Talents:** [Infer/Invent plausible skills based on appearance/items - e.g., Combat Prowess, Magical Ability, Stealth, Persuasion, Crafting]
+-   **Likes & Dislikes:** [Invent 2-3 unique, plausible likes/dislikes based on personality/archetype]
 
 ----------
 
-## X. SYMBOLIC ELEMENTS (Inferred/Invented)
+## **VII. RELATIONSHIPS & SOCIAL DYNAMICS (Invented)**
 
--   **Significant Objects:** \[Identify any visually prominent objects - weapon, jewelry, book, tool - and invent unique, plausible significance]
--   **Symbols:** \[Identify any visible symbols/patterns on clothing/items and invent unique, plausible meaning/affiliation]
+-   **Social Skills:** [Infer/Invent based on expression/demeanor - e.g., Approachable, Intimidating, Reserved, Charismatic, Awkward]
+-   **Friendships:** [Invent unique, general approach, e.g., Values loyalty in few close friends, Has many casual acquaintances, A loner by choice]
+-   **Romantic Relationships:** [Invent unique, current status/attitude, e.g., Single and focused on goals, Secretly yearning for connection, In a complicated relationship]
+-   **Attitude Towards Others:** [Infer/Invent based on expression - Trusting, Suspicious, Empathetic, Aloof, Kind, Stern, Judgmental]
+-   **Reputation:** [Invent unique, plausible reputation based on archetype - e.g., Feared mercenary, Respected elder, Mysterious wanderer, Reliable ally]
+-   **Role in Groups:** [Invent unique, plausible role based on archetype/posture - Leader, Loner, Follower, Mediator, Strategist]
+
+----------
+
+## **VIII. GOALS & MOTIVATIONS (Invented)**
+
+-   **Short-Term Goals:** [Invent unique, plausible goal related to inferred occupation/situation, e.g., Complete current mission, Find a specific item, Earn enough money for...]
+-   **Long-Term Goals:** [Invent unique, plausible ambition based on archetype, e.g., Avenge a past wrong, Achieve mastery in a skill, Find a place to belong, Restore something lost]
+-   **Motivations:** [Invent 1-2 unique, plausible drivers based on archetype/personality - Power, Justice, Survival, Knowledge, Love, Revenge, Duty]
+-   **Fears & Insecurities:** [Invent 1-2 unique, plausible fears/insecurities related to background/personality, e.g., Fear of failure, Fear of loss, Insecurity about origins]
+
+----------
+
+## **IX. QUIRKS & IDIOSYNCRASIES (Invented)**
+
+-   **Strange Habits:** [Invent one unique, minor unusual habit]
+-   **Superstitions:** [Invent one unique, minor superstition or 'None']
+-   **Catchphrases:** [Invent one unique, short catchphrase or 'None']
+-   **Pet Peeves:** [Invent one unique, minor pet peeve]
+
+----------
+
+## **X. SYMBOLIC ELEMENTS (Inferred/Invented)**
+
+-   **Significant Objects:** [Identify any visually prominent objects - weapon, jewelry, book, tool - and invent unique, plausible significance]
+-   **Symbols:** [Identify any visible symbols/patterns on clothing/items and invent unique, plausible meaning/affiliation]
 
 ----------
 
 ----------
 
-## Step 2 Output Display:
+## **Step 2 Output Display:**
 
 Now, display the content of the filled `{{character_sheet_filled}}` template generated above.
 
 **Preference for Output Format:**
 
 1.  **File Output (if supported):** If possible, generate the output in a format that can be downloaded or saved directly as a [specific file type, e.g., CSV, TXT, etc.].
-2.  **Text Box (fallback):** If file generation isn't possible, display the output in a code block above for easy copying.
+2.  **Text Box (fallback):** If file generation isn't possible, display the output in a plain text box that I can easily copy and paste.
 
 Ensure the output is formatted cleanly and accurately to make it easy to work with.
 
 ----------
 
-## Step 3: Generate Character.ai JSON Definition
+## **Step 3: Generate Character.ai JSON Definition**
 
 Using the information from the {{character_sheet_filled}} (Step 2), populate the following JSON template.
 
@@ -225,7 +234,7 @@ Using the information from the {{character_sheet_filled}} (Step 2), populate the
 
 JSON
 
-```json
+```
 {
   "{{char}}": {
     // --- Core Identity ---
@@ -416,6 +425,7 @@ JSON
        "employer": "[Invented faction/group or 'Self-employed']",
        "career_goals": "[Invented goal from Sheet VIII, if related]" // null otherwise
      },
+
     // --- Behavior (Inferred/Invented) ---
     "behavior": {
       "flirtation_style": "[Invent plausible style based on persona, e.g., 'Direct', 'Subtle', 'Awkward', 'None']",
@@ -451,3 +461,68 @@ JSON
      }
   }
 }
+
+```
+
+The result is {{cai_json_definition}}
+
+----------
+
+
+You are absolutely correct! I apologize again for the abrupt interruption. Let me complete the output display for Step 3 and then present the revised Step 4.
+
+----------
+
+## **Step 3 Output Display:**
+
+Now, display the content of the generated `{{cai_json_definition}}` above.
+
+**Preference for Output Format:**
+
+1.  **File Output (if supported):** If possible, generate the output in a format that can be downloaded or saved directly as a [specific file type, e.g., JSON, TXT, etc.].
+2.  **Text Box (fallback):** If file generation isn't possible, display the output in a plain text box that I can easily copy and paste.
+
+Ensure the output is formatted cleanly and accurately to make it easy to work with.
+
+----------
+## **Step 4: Display Final Output**
+
+Based on the following information:
+
+{{inferred_profile_text}}
+
+and the character sheet:
+
+{{character_sheet_filled}}
+
+generate the specific fields needed for the Character.ai interface, aiming to utilize as much of the allowed character count as possible without being repetitive or verbose:
+
+1.  **Tagline (maximum 50 characters):** Create a short, catchy phrase summarizing the character's core visual impression or invented role.
+    
+2.  **Description (maximum 500 characters):** Write a brief paragraph summarizing the character's appearance, inferred/invented personality, and potential role/setting based on the analysis and sheet.
+    
+3.  **Greeting (maximum 2048 characters):** Write an engaging opening message from the character's perspective that reflects their inferred/invented personality, situation, and potentially addresses the user or the scene. It should set the tone for interaction.
+    
+
+Now, assemble these generated elements into the final output structure below, formatted for easy copying:
+
+**Tagline (maximum 50 characters)**
+
+(Generated Tagline)
+
+**Description (maximum 500 characters)**
+
+(Generated Description)
+
+**Greeting (maximum 2048 characters)**
+
+(Generated Greeting)
+
+**Output:** Present the complete Character.ai interface fields (Tagline, Description, and Greeting).
+
+**Preference for Output Format:**
+
+1.  **File Output (if supported):** If possible, generate the output in a format that can be downloaded or saved directly as a [specific file type, e.g., TXT].
+2.  **Text Box (fallback):** If file generation isn't possible, display the output in a plain text box that I can easily copy and paste.
+
+Ensure the output is formatted cleanly and accurately to make it easy to work with.
