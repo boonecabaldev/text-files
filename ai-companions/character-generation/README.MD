@@ -11,6 +11,7 @@
 [Definition of portrait](https://www.google.com/search?q=portrait+definition&rlz=1C1ONGR_enUS1155US1155&oq=portrait+defi&gs_lcrp=EgZjaHJvbWUqDAgAEAAYRhj5ARiABDIMCAAQABhGGPkBGIAEMgYIARBFGDkyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyCQgFEAAYHhipBjIJCAYQABgeGKkGMgkIBxAAGB4YqQYyCQgIEAAYHhipBjIJCAkQABgeGKkG0gEIMzk0MmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8)
 
 [Grok](https://grok.com/)
+
 [Claude](https://claude.ai/)
 
 [Character creation prompt](https://github.com/boonecabaldev/text-files/blob/0eb2468bba6a937a80622092846dd6834d6d8b97/ai-companions/character-generation/character-ai_creation-prompt.md) 
