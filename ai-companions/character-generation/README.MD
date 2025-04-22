@@ -11,9 +11,9 @@
 [Character creation prompt](https://github.com/boonecabaldev/text-files/blob/0eb2468bba6a937a80622092846dd6834d6d8b97/ai-companions/character-generation/character-ai_creation-prompt.md) 
 
 ## Example of created character 
-[description](https://github.com/boonecabaldev/text-files/blob/59bf0a3a0f4fa49876ad38c264b8847392c48629/ai-companions/character-generation/character-desc.md)
-[attributes sheet filled](https://github.com/boonecabaldev/text-files/blob/59bf0a3a0f4fa49876ad38c264b8847392c48629/ai-companions/character-generation/character-sheet-filled.md)
-[character.ai profile](https://github.com/boonecabaldev/text-files/blob/59bf0a3a0f4fa49876ad38c264b8847392c48629/ai-companions/character-generation/character-ai-profile.md)
-[character.ai profile definition](https://github.com/boonecabaldev/text-files/blob/59bf0a3a0f4fa49876ad38c264b8847392c48629/ai-companions/character-generation/character-json-def.json)
+- [description](https://github.com/boonecabaldev/text-files/blob/59bf0a3a0f4fa49876ad38c264b8847392c48629/ai-companions/character-generation/character-desc.md)
+- [attributes sheet filled](https://github.com/boonecabaldev/text-files/blob/59bf0a3a0f4fa49876ad38c264b8847392c48629/ai-companions/character-generation/character-sheet-filled.md)
+- [character.ai profile](https://github.com/boonecabaldev/text-files/blob/59bf0a3a0f4fa49876ad38c264b8847392c48629/ai-companions/character-generation/character-ai-profile.md)
+- [character.ai profile definition](https://github.com/boonecabaldev/text-files/blob/59bf0a3a0f4fa49876ad38c264b8847392c48629/ai-companions/character-generation/character-json-def.json)
 
 [Grok page I used](https://grok.com/share/bGVnYWN5_904622ac-f6ea-4c15-8dd2-403f1ca9a4dc)
